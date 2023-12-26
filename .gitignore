@@ -1,0 +1,9 @@
+*.ckpt
+*.pth
+*.png
+*.csv
+*.txt
+/__pycache__/
+/models/__pycache__
+/multitask/__pycache__
+/results/
